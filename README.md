@@ -1,11 +1,11 @@
 ### Hi there, my name Alfian 👋
 
-I'm a software engineer at [KCN](https://kacangan.net) in Bekasi, West Java, Indonesia 🌆
+I'm a FullStack Web Developer and Network Engineer at [KCN](https://kacangan.net) in Bekasi, West Java, Indonesia 🌆
 
 - 🔭 I’m currently learn Laravel, Flutter and use it to build a software
 - ☕ my hobby is football and drinking coffee
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- 💬 Ask me about [Laravel](https://laravel.com) and [PHP](https://php.net).
 - ⚡ Fun fact: sharing is magic 🐰
 - Email me at [G-mail](mailto:alfian.setia100@gmail.com)
 - Linkedin : [Linked.in](https://www.linkedin.com/in/alfiansetia/)
