@@ -8,6 +8,7 @@ Software engineer focused on web applications, network infrastructure, and pract
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [Bookshelf](https://bookshelf.my.id) | Personal online bookshelf with public shareable shelves. | Laravel 13 · Inertia · Vue 3 · Tailwind CSS 4 · MySQL |
 | [NewVPN](https://member.kacangan.net) | VPN and MikroTik management panel. | Laravel 13 · Inertia · Vue 3 · Tailwind CSS 4 · Docker · Nginx · MySQL |
 | [Laravel WHO](https://github.com/alfiansetia/laravel-who) | Internal system for inventory, quality control, logistics, and integrations. | Laravel · Inertia · Vue · MySQL |
 | [Musa](https://musa.kacangan.net) | Dynamic Island-style desktop overlay. | Rust · Tauri 2 · React 18 · TypeScript · Vite |
